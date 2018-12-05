@@ -1,0 +1,4 @@
+Basic Probability for DS positions
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/
+
+Bayesian Probability
